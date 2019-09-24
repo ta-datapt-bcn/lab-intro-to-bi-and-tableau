@@ -1,0 +1,12 @@
+############################
+
+LAB INTRO TO TABLEAU 
+PAULA GUAL
+DATAPT0519
+
+###########################
+
+
+LINK TO THE TABLEAU PUBLIC LAB:
+
+https://public.tableau.com/profile/paula.gual.de.torrella.ca.ellas#!/vizhome/lab-tableau/binning
